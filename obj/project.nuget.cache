@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "slHYt4Nr+Kym9WVKtQULhOM9cZua03rb5nVXx/IPKNJwusCVpt241nNZCXlaDlCqnqR7JA+LuFVIP1IzyJDBUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\supun\\OneDrive\\Desktop\\Lambda-Lab\\Lambda-Lab\\Lambda-Lab-Post.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\supun\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\supun\\.nuget\\packages\\amazon.lambda.s3events\\2.0.1\\amazon.lambda.s3events.2.0.1.nupkg.sha512",
+    "C:\\Users\\supun\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.2.0\\amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512",
+    "C:\\Users\\supun\\.nuget\\packages\\awssdk.core\\3.7.302.7\\awssdk.core.3.7.302.7.nupkg.sha512",
+    "C:\\Users\\supun\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.301.8\\awssdk.dynamodbv2.3.7.301.8.nupkg.sha512",
+    "C:\\Users\\supun\\.nuget\\packages\\awssdk.rekognition\\3.7.6.1\\awssdk.rekognition.3.7.6.1.nupkg.sha512",
+    "C:\\Users\\supun\\.nuget\\packages\\awssdk.s3\\3.7.7.2\\awssdk.s3.3.7.7.2.nupkg.sha512",
+    "C:\\Users\\supun\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

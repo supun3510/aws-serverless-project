@@ -1,0 +1,12 @@
+C:\Users\supun\OneDrive\Desktop\Lambda-Lab\Lambda-Lab\bin\Release\net6.0\publish\Lambda-Lab-Post.dll
+C:\Users\supun\OneDrive\Desktop\Lambda-Lab\Lambda-Lab\bin\Release\net6.0\publish\Lambda-Lab-Post.deps.json
+C:\Users\supun\OneDrive\Desktop\Lambda-Lab\Lambda-Lab\bin\Release\net6.0\publish\Lambda-Lab-Post.runtimeconfig.json
+C:\Users\supun\OneDrive\Desktop\Lambda-Lab\Lambda-Lab\bin\Release\net6.0\publish\Lambda-Lab-Post.pdb
+C:\Users\supun\OneDrive\Desktop\Lambda-Lab\Lambda-Lab\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\supun\OneDrive\Desktop\Lambda-Lab\Lambda-Lab\bin\Release\net6.0\publish\Amazon.Lambda.S3Events.dll
+C:\Users\supun\OneDrive\Desktop\Lambda-Lab\Lambda-Lab\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\supun\OneDrive\Desktop\Lambda-Lab\Lambda-Lab\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\supun\OneDrive\Desktop\Lambda-Lab\Lambda-Lab\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\supun\OneDrive\Desktop\Lambda-Lab\Lambda-Lab\bin\Release\net6.0\publish\AWSSDK.Rekognition.dll
+C:\Users\supun\OneDrive\Desktop\Lambda-Lab\Lambda-Lab\bin\Release\net6.0\publish\AWSSDK.S3.dll
+C:\Users\supun\OneDrive\Desktop\Lambda-Lab\Lambda-Lab\bin\Release\net6.0\publish\Newtonsoft.Json.dll
